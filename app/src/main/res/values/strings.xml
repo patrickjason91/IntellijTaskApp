@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntellijTaskApp</string>
+    <string name="task_name">Task name</string>
+    <string name="save">Save</string>
+</resources>
